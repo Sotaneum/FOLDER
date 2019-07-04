@@ -19,13 +19,13 @@ FOLDER
 
 - preview
 
-    ![0.0.1](./git-image/0.0.1-1.PNG)
-    ![0.0.1](./git-image/0.0.1-2.PNG)
-    ![0.0.1](./git-image/0.0.1-3.PNG)
-    ![0.0.1](./git-image/0.0.1-4.PNG)
-    ![0.0.1](./git-image/0.0.1-5.PNG)
-    ![0.0.1](./git-image/0.0.1-6.PNG)
-    ![0.0.1](./git-image/0.0.1-7.PNG)
-    ![0.0.1](./git-image/0.0.1-8.PNG)
-    ![0.0.1](./git-image/0.0.1-9.PNG)
-    ![0.0.1](./git-image/0.0.1-9-1.PNG)
+    ![0.0.1](./git-image/0.0.1-1.png)
+    ![0.0.1](./git-image/0.0.1-2.png)
+    ![0.0.1](./git-image/0.0.1-3.png)
+    ![0.0.1](./git-image/0.0.1-4.png)
+    ![0.0.1](./git-image/0.0.1-5.png)
+    ![0.0.1](./git-image/0.0.1-6.png)
+    ![0.0.1](./git-image/0.0.1-7.png)
+    ![0.0.1](./git-image/0.0.1-8.png)
+    ![0.0.1](./git-image/0.0.1-9.png)
+    ![0.0.1](./git-image/0.0.1-9-1.png)
