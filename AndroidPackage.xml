@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValueDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MainUser />
+  <Effect />
+  <MainFunction />
+  <Advantage />
+  <TestApp>true</TestApp>
+  <ApkFileSize>1.82MB</ApkFileSize>
+  <CateGroupCode />
+  <CateIndustryCode />
+  <CateJobCode />
+  <PointSaleLimit>0</PointSaleLimit>
+  <Environment />
+  <KeyWord />
+  <KeyWord1 />
+  <KeyWord2 />
+  <MarketMainImagePath />
+  <MarketVersion />
+  <ProjectName>FOLDER</ProjectName>
+  <PackageName>folder</PackageName>
+  <PackageFolder>D:\m-Bizmaker\m-BizBuilder\Application\앱패키지</PackageFolder>
+  <IconFile>F:\Project(m-bizmaker)\프로젝트\FOLDER\blue_fire.png</IconFile>
+  <VersionName>Update 2.3</VersionName>
+  <VersionCode />
+  <ManifestDescription>2.3버전 안정화</ManifestDescription>
+  <LocalDB>true</LocalDB>
+  <MultiDB>false</MultiDB>
+  <ServerUri />
+  <UserID>sa</UserID>
+  <Password>1</Password>
+  <AutoLogin>true</AutoLogin>
+  <UseLocalApp>true</UseLocalApp>
+  <DepInfo>10001$개발용DB$개발용DB$개발용DB$8$dbo</DepInfo>
+  <DatabaseName>개발용DB</DatabaseName>
+  <ModelFolder>F:\Project(m-bizmaker)\프로젝트\FOLDER</ModelFolder>
+  <ProductID />
+  <ProductName>FOLDER by 이동건</ProductName>
+  <Description>자기소개서 개발 어플</Description>
+  <Summary>Self_introduction</Summary>
+  <ProductCategory>0</ProductCategory>
+  <ProductPart>0</ProductPart>
+  <WebPage />
+  <MailAddress />
+  <PhoneNumber />
+  <SellType>0</SellType>
+  <Price>0</Price>
+  <AdvertType>0</AdvertType>
+  <TrialPeriod>30</TrialPeriod>
+  <TrialApp>false</TrialApp>
+  <ImagePath />
+  <ImagePath1 />
+  <ImagePath2 />
+  <ImagePath3 />
+  <MediaHelp />
+  <RegisterDate />
+  <CreateDate>20151203121338</CreateDate>
+  <LicenseNumber>1512020204</LicenseNumber>
+  <LicenseCompany>SM79368-73241239</LicenseCompany>
+  <ProjectCode />
+  <SellerID>cyydo96@naver.com</SellerID>
+  <ModelFiles />
+  <TableList>
+    <string>FOLDER_일</string>
+    <string>FOLDER_포장</string>
+    <string>설정</string>
+  </TableList>
+  <TopCommTable>
+    <string>TOP_DEP</string>
+    <string>TOP_ENV</string>
+  </TopCommTable>
+  <MarketServer />
+  <MarketLicense />
+  <DeployServer>http://www.m-bizstore.com</DeployServer>
+  <TopComm>TOP_COMM$TOP_COMM$TOP_COMM$TOP_COMM$8$dbo</TopComm>
+  <Platform>17</Platform>
+  <SPoSAHost />
+  <SPoSAPort />
+  <SPoSAClientID />
+  <SPoSAClientPass />
+  <DeviceCode />
+  <MDMApp />
+  <UseSSL />
+  <SSLPortNumber />
+  <MapType />
+  <TimeOut>30</TimeOut>
+</ValueDocument>
