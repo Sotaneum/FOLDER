@@ -17,7 +17,7 @@
   <MarketMainImagePath />
   <MarketVersion />
   <ProjectName>FOLDER</ProjectName>
-  <PackageName>folder</PackageName>
+  <PackageName>folder_hidden</PackageName>
   <PackageFolder>D:\m-Bizmaker\m-BizBuilder\Application\앱패키지</PackageFolder>
   <IconFile>F:\Project(m-bizmaker)\프로젝트\FOLDER\blue_fire.png</IconFile>
   <VersionName>Update 2.3</VersionName>
@@ -53,8 +53,8 @@
   <ImagePath3 />
   <MediaHelp />
   <RegisterDate />
-  <CreateDate>20151203121338</CreateDate>
-  <LicenseNumber>1512020204</LicenseNumber>
+  <CreateDate>20151203121640</CreateDate>
+  <LicenseNumber>1512030001</LicenseNumber>
   <LicenseCompany>SM79368-73241239</LicenseCompany>
   <ProjectCode />
   <SellerID>cyydo96@naver.com</SellerID>
