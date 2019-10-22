@@ -1,31 +1,43 @@
 # FOLDER
-FOLDER
 
-- Tool : mbizmaker
+폴더 :: 인생을 담다
 
-- OS : Android
+![0.0.1](./git-image/0.0.1-1.png)
 
-- 대학교 과제로 구현한 앱입니다.
+## Info
 
 - 자신의 인생을 폴더에 담는다는 의미로 폴더라는 이름으로 구현했습니다.
-
 - 자신의 일정을 등록할 수도 있고 일기처럼 사용이 가능합니다.
-
 - 자신이 작성했던 내용들을 하나로 압축시켜 자기소개서로 만들 수 있도록 하는 기능도 있습니다.
-
 - 카카오톡으로 해당 내용을 공유할 수 있는 기능도 있습니다.
-
 - 비밀번호도 설정할 수 있어 자신만 볼 수 있도록 할 수 있습니다.
 
-- preview
+![0.0.1](./git-image/0.0.1-2.png)![0.0.1](./git-image/0.0.1-3.png)![0.0.1](./git-image/0.0.1-4.png)
+![0.0.1](./git-image/0.0.1-5.png)![0.0.1](./git-image/0.0.1-6.png)![0.0.1](./git-image/0.0.1-7.png)
+![0.0.1](./git-image/0.0.1-8.png)![0.0.1](./git-image/0.0.1-9.png)![0.0.1](./git-image/0.0.1-9-1.png)
 
-    ![0.0.1](./git-image/0.0.1-1.png)
-    ![0.0.1](./git-image/0.0.1-2.png)
-    ![0.0.1](./git-image/0.0.1-3.png)
-    ![0.0.1](./git-image/0.0.1-4.png)
-    ![0.0.1](./git-image/0.0.1-5.png)
-    ![0.0.1](./git-image/0.0.1-6.png)
-    ![0.0.1](./git-image/0.0.1-7.png)
-    ![0.0.1](./git-image/0.0.1-8.png)
-    ![0.0.1](./git-image/0.0.1-9.png)
-    ![0.0.1](./git-image/0.0.1-9-1.png)
+## Role
+
+- 기획/개발
+
+## Development Environment
+
+- m-bizmaker
+
+## What did you learn
+
+- 안드로이드 구조와 m-bizmaker의 한글 코딩에 대해 배울 수 있었습니다.
+- 머리속으로 생각했던 아이디어를 구상한다는 것은 기술적인 한계에 부딪힐 수 있다는 것을 알게되었습니다.
+- 카카오톡 API를 사용해볼 수 있었습니다.
+
+## Finally
+
+- 대학교 과제로 구현한 아이디어입니다.
+- 머리속으로만 생각하고 있던 아이디어를 대학교 과제에 적용해서 발표했습니다.
+- 좋은 성적을 얻을 수 있었습니다.
+
+## Copyright
+
+- 디자인은 `상업/비상업적으로 사용이 불가`합니다.
+- 그 외의 경우 비상업적 용도로 사용 가능하며 링크를 반드시 포함해주세요.
+- 문제가 되는 내용이 있다면 언제든지 [`issue`](https://github.com/Sotaneum/FOLDER/issues/new), [`Pull requests`](https://github.com/Sotaneum/FOLDER/compare) 부탁드립니다.
